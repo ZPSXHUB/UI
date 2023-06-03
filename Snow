@@ -6350,7 +6350,7 @@ function library:CreateWindow(options, ...)
 				randomColorButton.BackgroundTransparency = 1
 				randomColorButton.Size = UDim2.fromScale(1, 1)
 				randomColorButton.ZIndex = 5
-				randomColorButton.Image = "rbxassetid://12855499169"
+				randomColorButton.Image = "rbxassetid://13634974170"
 				rainbow.Name = "rainbow"
 				rainbow.Parent = colorPickerHolderInner
 				rainbow.Active = true
