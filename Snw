@@ -284,7 +284,7 @@ local function createOriginialElements()
 		plus.Size = UDim2.new(1, 0, 0.5, 0)
 		plus.AutoButtonColor = false
 		plus.Rotation = 180
-		plus.Image = "http://www.roblox.com/asset/?id=11520007725"
+		plus.Image = "http://www.roblox.com/asset/?id=13634974124"
 		plus.ImageColor3 = Color3.fromRGB(180, 180, 180)
 		plus.Visible = false
 		plus.ImageTransparency = 1.000
