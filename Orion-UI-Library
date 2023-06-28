@@ -662,6 +662,7 @@ function OrionLib:MakeWindow(WindowConfig)
 		OrionLib:MakeNotification({
 			Name = "Interface Hidden",
 			Content = "Tap RightShift to reopen the interface",
+			Image = "rbxassetid://13758663242",
 			Time = 5
 		})
 		WindowConfig.CloseCallback()
